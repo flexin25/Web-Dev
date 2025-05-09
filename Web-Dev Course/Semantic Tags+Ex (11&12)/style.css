@@ -1,0 +1,32 @@
+body{
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    background-color: #d1aff7;
+    padding: 100px; 
+    margin: 0;
+}
+h2{
+    font-family: cursive;
+    color: rgb(90, 141, 186);
+    text-align: left;    
+    padding: 20px;
+    font-size: large;
+    margin: 0;
+}
+footer{
+    font-family: cursive;
+    background-color: #b1be99;
+    color: #333;
+    text-align: center;
+    font-size: medium;
+    padding: 0px 0; 
+    bottom: 0;
+    position: fixed;      
+    width: 100%; 
+    height: 55px;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.3);
+    margin: 0; 
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
